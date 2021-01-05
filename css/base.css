@@ -15,10 +15,10 @@ body
     margin-top:30px;
 }
 .bouton a{
-    background-color: #4c7faf; /* Green */
+    background-color: #2c5758; /* Green */
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 10px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
